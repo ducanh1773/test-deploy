@@ -1,0 +1,13 @@
+.GameX-O {
+  margin: 15px;
+  color: brown;
+  width: 300px;
+  height: 300px;
+}
+
+.colum {
+  width: 90px;
+  height: 90px;
+  border: 10px solid #141414;
+
+}
